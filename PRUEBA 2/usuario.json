@@ -1,0 +1,9 @@
+{
+    "usuarios": [
+        {
+        "contrasena": "reg_contrasena1",
+        "contrasena2": "reg_contrasena2",
+        "correo": "reg_correo"
+        }
+    ]
+}
